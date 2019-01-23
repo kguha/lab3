@@ -9,7 +9,7 @@ actually easy way (once you know how).
 Whether you are using Windows or Mac, it’s really helpful to be able to
 do a few things on the command line. And to understand it, one of the
 most important concepts is the *current working directory*. This is sort
-of like “where you are” on your computer when you type a command.
+of like you are” on your computer when you type a command.
 
 For example, you might be in your home directory (`/Users/YOURNAME` on
 Mac, or maybe `C:\Users\YOURNAME` on Windows), which means that when you

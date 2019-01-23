@@ -8,6 +8,6 @@ def double(x: int) -> int:
     >>> double(3)
     6
     """
-    return 2 * x
+    return 2 * x *x
 
 
